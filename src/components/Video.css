@@ -1,24 +1,23 @@
 .video-chat {
-    text-align: center;
-  }
-  
-  .video-container {
-    display: flex;
-    justify-content: space-around;
-  }
-  
-  video {
-    width: 300px;
-    height: auto;
-    border: 2px solid black;
-  }
-  
-  .controls {
-    margin-top: 20px;
-  }
-  
-  textarea {
-    width: 300px;
-    height: 100px;
-  }
-  
+  text-align: center;
+}
+
+.video-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+video {
+  width: 300px;
+  height: auto;
+  border: 2px solid black;
+}
+
+.controls {
+  margin-top: 20px;
+}
+
+textarea {
+  width: 300px;
+  height: 100px;
+}
