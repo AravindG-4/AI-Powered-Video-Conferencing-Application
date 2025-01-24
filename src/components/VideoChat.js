@@ -1,17 +1,41 @@
-import React, { useRef, useState } from "react";
+import React, { useRef, useState, useEffect } from "react";
 import SimplePeer from "simple-peer";
+import io from 'socket.io-client';
 import "./Video.css";
 
 const VideoChat = () => {
   const [myStream, setMyStream] = useState(null);
   const [peerStream, setPeerStream] = useState(null);
   const [connection, setConnection] = useState(null);
-  const [ws, setWs] = useState(null); // WebSocket state
-  const [myEmotion, setMyEmotion] = useState("neutral"); // State to hold my detected emotion
-  const [peerEmotion, setPeerEmotion] = useState("neutral"); // State to hold peer's detected emotion
+  const [socket, setSocket] = useState(null);
+  const [myEmotion, setMyEmotion] = useState("neutral");
+  const [peerEmotion, setPeerEmotion] = useState("neutral");
+  const [peerId, setPeerId] = useState(null);
   const myVideoRef = useRef();
   const peerVideoRef = useRef();
   const signalInputRef = useRef();
+
+  // Initialize Socket.IO connection
+  useEffect(() => {
+    const newSocket = io('http://10.1.58.223:5000');
+    setSocket(newSocket);
+
+    newSocket.on('connect', () => {
+      setPeerId(newSocket.id);
+      console.log('Connected to Socket.IO server with ID:', newSocket.id);
+    });
+
+    newSocket.on('receiveEmotion', (data) => {
+      console.log('Received peer emotion:', data.emotion, 'from peer:', data.fromPeerId);
+      if (data.fromPeerId !== newSocket.id) {
+        setMyEmotion(data.emotion);
+      }
+    });
+
+    return () => {
+      newSocket.disconnect();
+    };
+  }, []);
 
   // Start local video stream with optimized constraints
   const startStream = async () => {
@@ -35,26 +59,28 @@ const VideoChat = () => {
     const videoTrack = stream.getVideoTracks()[0];
     const imageCapture = new ImageCapture(videoTrack);
 
-    // Create WebSocket connection
-    const websocket = new WebSocket("ws://10.1.58.223:8000/ws/emotion-detection"); // Change to wss if needed
-    setWs(websocket);
+    // Create WebSocket connection to emotion detection API
+    const websocket = new WebSocket("ws://10.1.58.223:8000/ws/emotion-detection"); 
 
     websocket.onopen = () => {
-      console.log("WebSocket connection established");
+      console.log("WebSocket connection to emotion API established");
     };
 
     websocket.onmessage = (event) => {
-      console.log("Received emotion:", event.data);
-      setPeerEmotion(event.data); // Update peer's emotion state
+      console.log("Received emotion from API:", event.data);
+      setPeerEmotion(event.data);
+      
+      // Send emotion to peer via Socket.IO
+      if (socket && peerId) {
+        socket.emit('sendEmotion', { 
+          emotion: event.data, 
+          fromPeerId: peerId 
+        });
+      }
     };
 
     websocket.onerror = (error) => {
       console.error("WebSocket error:", error);
-    };
-
-    websocket.onclose = () => {
-      console.log("WebSocket connection closed");
-      // Optionally attempt to reconnect here if needed
     };
 
     // Capture frames at a regular interval
@@ -79,17 +105,22 @@ const VideoChat = () => {
       }
     };
 
-    // Capture a frame every second (adjust as needed)
     const frameInterval = setInterval(captureFrame, 1000);
 
     websocket.onclose = () => {
-      clearInterval(frameInterval); // Clear interval on WebSocket close
-      console.log("WebSocket connection closed");
+      clearInterval(frameInterval);
+      console.log("Emotion WebSocket connection closed");
     };
   };
 
+  // Rest of the code remains the same as in the previous implementation
   // Create a new peer connection with optimized settings
   const createConnection = () => {
+    if (!myStream) {
+      console.error("Cannot create connection: myStream is not initialized");
+      return;
+    }
+
     const peer = new SimplePeer({
       initiator: true,
       trickle: false,
@@ -102,8 +133,19 @@ const VideoChat = () => {
     });
 
     peer.on("stream", (stream) => {
+      console.log("Peer stream received");
       setPeerStream(stream);
-      peerVideoRef.current.srcObject = stream;
+      if (peerVideoRef.current) {
+        peerVideoRef.current.srcObject = stream;
+      }
+    });
+
+    peer.on("error", (err) => {
+      console.error("Peer connection error:", err);
+    });
+
+    peer.on("close", () => {
+      console.log("Peer connection closed");
     });
 
     setConnection(peer);
@@ -124,8 +166,11 @@ const VideoChat = () => {
       });
 
       peer.on("stream", (stream) => {
+        console.log("Peer stream received");
         setPeerStream(stream);
-        peerVideoRef.current.srcObject = stream;
+        if (peerVideoRef.current) {
+          peerVideoRef.current.srcObject = stream;
+        }
       });
 
       setConnection(peer);
@@ -141,15 +186,16 @@ const VideoChat = () => {
         <div>
           <h3>My Video</h3>
           <video ref={myVideoRef} autoPlay muted></video>
-          <div className="emotion-display">My Emotion: {peerEmotion}</div> {/* Display my emotion here */}
+          <div className="emotion-display">Detected Emotion: {peerEmotion}</div>
         </div>
         <div>
           <h3>Peer Video</h3>
           <video ref={peerVideoRef} autoPlay></video>
-          <div className="emotion-display">Peer's Emotion: {myEmotion}</div> {/* Display peer's emotion here */}
+          <div className="emotion-display">Peer's Emotion: {myEmotion}</div> 
         </div>
       </div>
 
+      {/* Rest of the JSX remains the same */}
       <div className="controls">
         {!myStream && <button onClick={startStream}>Start My Stream</button>}
         {myStream && !connection && (
@@ -163,7 +209,6 @@ const VideoChat = () => {
         )}
       </div>
 
-      {/* Emotion display styling */}
       <style jsx>{`
         .emotion-display {
           font-size: 24px;
@@ -173,7 +218,6 @@ const VideoChat = () => {
           text-align: center;
         }
       `}</style>
-      
     </div>
   );
 };
