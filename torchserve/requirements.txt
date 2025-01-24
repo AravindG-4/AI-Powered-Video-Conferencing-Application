@@ -1,0 +1,9 @@
+torchserve
+torch-model-archiver
+onnx
+onnxruntime
+torch
+torchvision
+Pillow
+
+

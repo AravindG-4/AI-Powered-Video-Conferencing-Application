@@ -1,0 +1,1218 @@
+2025-01-24T05:04:38,818 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T05:04:38,818 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T05:04:38,818 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]10376
+2025-01-24T05:04:38,818 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T05:04:38,818 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T05:04:38,829 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T05:04:38,847 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T05:04:38,955 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T05:04:38,955 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T05:04:38,955 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T05:04:38,955 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T05:04:39,873 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Loaded ONNX model from C:\Users\SRIDHA~1\AppData\Local\Temp\models\838ebc689514416c9685ce540f35c93f/emotion_model.onnx
+2025-01-24T05:04:39,873 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Preprocessing transformations set up successfully.
+2025-01-24T05:10:45,101 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T05:10:45,101 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T05:10:45,101 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]11564
+2025-01-24T05:10:45,101 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T05:10:45,101 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T05:10:45,111 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T05:10:45,131 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T05:10:45,181 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T05:10:45,181 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T05:10:45,181 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T05:10:45,181 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T05:10:46,082 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Loaded ONNX model from C:\Users\SRIDHA~1\AppData\Local\Temp\models\e5a4ffe0ac724bcd85cd61edad0041bc/emotion_model.onnx
+2025-01-24T05:10:46,082 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Preprocessing transformations set up successfully.
+2025-01-24T05:11:01,982 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737675661
+2025-01-24T05:11:01,986 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T05:11:02,002 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T05:11:02,002 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T05:12:05,944 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737675725
+2025-01-24T05:12:05,944 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T05:12:05,959 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T05:12:05,960 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T05:15:24,515 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T05:15:24,515 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T05:15:24,515 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]12272
+2025-01-24T05:15:24,515 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T05:15:24,515 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T05:15:24,530 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T05:15:24,546 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T05:15:24,657 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T05:15:24,657 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T05:15:24,657 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T05:15:24,657 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T05:15:25,593 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Loaded ONNX model from C:\Users\SRIDHA~1\AppData\Local\Temp\models\9f67788ccfca487bb65f2cc860df1b9f/emotion_model.onnx
+2025-01-24T05:15:25,593 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Preprocessing transformations set up successfully.
+2025-01-24T05:16:11,271 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737675971
+2025-01-24T05:16:11,271 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T05:16:11,292 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T05:16:11,292 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T05:28:11,811 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T05:28:11,811 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T05:28:11,811 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]14420
+2025-01-24T05:28:11,811 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T05:28:11,811 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T05:28:11,825 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T05:28:11,846 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T05:28:12,359 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T05:28:12,360 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T05:28:12,360 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T05:28:12,360 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T05:28:13,311 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Loaded ONNX model from C:\Users\SRIDHA~1\AppData\Local\Temp\models\cd33dc17fd204ad88dee77c94199a783/emotion_model.onnx
+2025-01-24T05:28:13,311 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Preprocessing transformations set up successfully.
+2025-01-24T05:29:58,106 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T05:29:58,112 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T05:29:58,112 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]20476
+2025-01-24T05:29:58,112 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T05:29:58,112 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T05:29:58,121 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T05:29:58,142 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T05:29:58,254 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T05:29:58,254 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T05:29:58,254 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T05:29:58,254 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T05:29:59,261 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Loaded ONNX model from C:\Users\SRIDHA~1\AppData\Local\Temp\models\6cf86c96ad464d178d0495f7109906fb/emotion_model.onnx
+2025-01-24T05:29:59,262 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Preprocessing transformations set up successfully.
+2025-01-24T05:32:15,985 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T05:32:15,990 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T05:32:15,990 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]16472
+2025-01-24T05:32:15,990 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T05:32:15,990 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T05:32:15,997 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T05:32:16,021 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T05:32:16,130 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T05:32:16,130 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T05:32:16,130 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T05:32:16,131 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T05:32:17,078 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Loaded ONNX model from C:\Users\SRIDHA~1\AppData\Local\Temp\models\ead5540f06274a7faa5c15c25e10933f/emotion_model.onnx
+2025-01-24T05:32:17,078 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Preprocessing transformations set up successfully.
+2025-01-24T05:34:47,502 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T05:34:47,505 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T05:34:47,506 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]4392
+2025-01-24T05:34:47,506 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T05:34:47,506 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T05:34:47,514 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T05:34:47,536 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T05:34:47,641 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T05:34:47,641 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T05:34:47,641 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T05:34:47,641 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T05:34:48,565 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Loaded ONNX model from C:\Users\SRIDHA~1\AppData\Local\Temp\models\fd02f98467c04850afe420500003879a/emotion_model.onnx
+2025-01-24T05:34:48,565 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Preprocessing transformations set up successfully.
+2025-01-24T05:35:43,122 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T05:35:43,125 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T05:35:43,126 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]21416
+2025-01-24T05:35:43,126 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T05:35:43,126 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T05:35:43,133 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T05:35:43,155 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T05:35:43,257 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T05:35:43,257 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T05:35:43,257 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T05:35:43,257 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T05:35:44,176 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Loaded ONNX model from C:\Users\SRIDHA~1\AppData\Local\Temp\models\63f48b0bb82648a9ac5671811e9e6f13/emotion_model.onnx
+2025-01-24T05:35:44,176 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Preprocessing transformations set up successfully.
+2025-01-24T05:38:43,106 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T05:38:43,106 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T05:38:43,106 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]19724
+2025-01-24T05:38:43,106 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T05:38:43,106 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T05:38:43,122 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T05:38:43,146 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T05:38:43,245 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T05:38:43,245 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T05:38:43,245 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T05:38:43,245 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T05:38:44,183 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Loaded ONNX model from C:\Users\SRIDHA~1\AppData\Local\Temp\models\294270a09e6441f9b888bd6efad318f1/emotion_model.onnx
+2025-01-24T05:38:44,183 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Preprocessing transformations set up successfully.
+2025-01-24T05:39:07,312 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T05:39:07,322 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T05:39:07,322 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]24768
+2025-01-24T05:39:07,322 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T05:39:07,322 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T05:39:07,331 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T05:39:07,354 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T05:39:07,398 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T05:39:07,398 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T05:39:07,398 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T05:39:07,398 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T05:39:08,293 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Loaded ONNX model from C:\Users\SRIDHA~1\AppData\Local\Temp\models\b1566759cd5d40c19d16ed6745a81d63/emotion_model.onnx
+2025-01-24T05:39:08,303 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Preprocessing transformations set up successfully.
+2025-01-24T09:08:03,279 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T09:08:03,279 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T09:08:03,279 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]10432
+2025-01-24T09:08:03,279 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T09:08:03,279 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T09:08:03,295 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T09:08:03,311 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T09:08:03,360 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T09:08:03,360 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T09:08:03,360 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T09:08:03,360 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T09:08:04,322 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Loaded ONNX model from C:\Users\SRIDHA~1\AppData\Local\Temp\models\b5ec873519cf466a8fa04cde8275c826/emotion_model.onnx
+2025-01-24T09:08:04,322 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Preprocessing transformations set up successfully.
+2025-01-24T09:08:54,014 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737689934
+2025-01-24T09:08:54,014 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:08:54,035 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:08:54,035 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:10:12,403 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737690012
+2025-01-24T09:10:12,414 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:10:12,420 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:10:12,420 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:18:16,340 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T09:18:16,341 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T09:18:16,341 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]23812
+2025-01-24T09:18:16,341 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T09:18:16,341 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T09:18:16,352 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T09:18:16,371 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T09:18:16,376 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend worker process died.
+2025-01-24T09:18:16,376 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2025-01-24T09:18:16,376 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 108, in load
+2025-01-24T09:18:16,376 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module, function_name = self._load_handler_file(handler)
+2025-01-24T09:18:16,376 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:16,376 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 153, in _load_handler_file
+2025-01-24T09:18:16,376 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module = importlib.import_module(module_name)
+2025-01-24T09:18:16,377 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:16,377 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\importlib\__init__.py", line 90, in import_module
+2025-01-24T09:18:16,377 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     return _bootstrap._gcd_import(name[level:], package, level)
+2025-01-24T09:18:16,377 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:16,377 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2025-01-24T09:18:16,378 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2025-01-24T09:18:16,378 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+2025-01-24T09:18:16,378 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ModuleNotFoundError: No module named 'C'
+2025-01-24T09:18:16,379 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - 
+2025-01-24T09:18:16,379 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - During handling of the above exception, another exception occurred:
+2025-01-24T09:18:16,379 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - 
+2025-01-24T09:18:16,379 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2025-01-24T09:18:16,380 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 301, in <module>
+2025-01-24T09:18:16,380 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     worker.run_server()
+2025-01-24T09:18:16,380 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 268, in run_server
+2025-01-24T09:18:16,380 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     self.handle_connection(cl_socket)
+2025-01-24T09:18:16,381 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 196, in handle_connection
+2025-01-24T09:18:16,381 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     service, result, code = self.load_model(msg)
+2025-01-24T09:18:16,381 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -                             ^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:16,381 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 133, in load_model
+2025-01-24T09:18:16,382 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     service = model_loader.load(
+2025-01-24T09:18:16,382 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -               ^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:16,382 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 110, in load
+2025-01-24T09:18:16,383 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module = self._load_default_handler(handler)
+2025-01-24T09:18:16,383 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:16,383 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 159, in _load_default_handler
+2025-01-24T09:18:16,383 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module = importlib.import_module(module_name, "ts.torch_handler")
+2025-01-24T09:18:16,383 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:16,384 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\importlib\__init__.py", line 90, in import_module
+2025-01-24T09:18:16,384 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     return _bootstrap._gcd_import(name[level:], package, level)
+2025-01-24T09:18:16,384 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:16,385 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2025-01-24T09:18:16,385 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2025-01-24T09:18:16,386 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+2025-01-24T09:18:16,386 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ModuleNotFoundError: No module named 'ts.torch_handler.C:\\Users\\SRIDHA~1\\AppData\\Local\\Temp\\models\\c64d084baec44e77b782fdcfabe37735'
+2025-01-24T09:18:18,714 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T09:18:18,714 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T09:18:18,714 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]22588
+2025-01-24T09:18:18,714 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T09:18:18,723 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T09:18:18,723 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T09:18:18,759 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T09:18:18,761 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend worker process died.
+2025-01-24T09:18:18,761 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2025-01-24T09:18:18,761 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 108, in load
+2025-01-24T09:18:18,761 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module, function_name = self._load_handler_file(handler)
+2025-01-24T09:18:18,762 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:18,762 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 153, in _load_handler_file
+2025-01-24T09:18:18,762 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module = importlib.import_module(module_name)
+2025-01-24T09:18:18,762 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:18,762 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\importlib\__init__.py", line 90, in import_module
+2025-01-24T09:18:18,763 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     return _bootstrap._gcd_import(name[level:], package, level)
+2025-01-24T09:18:18,763 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:18,763 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2025-01-24T09:18:18,763 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2025-01-24T09:18:18,763 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+2025-01-24T09:18:18,763 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ModuleNotFoundError: No module named 'C'
+2025-01-24T09:18:18,764 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - 
+2025-01-24T09:18:18,764 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - During handling of the above exception, another exception occurred:
+2025-01-24T09:18:18,764 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - 
+2025-01-24T09:18:18,764 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2025-01-24T09:18:18,765 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 301, in <module>
+2025-01-24T09:18:18,765 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     worker.run_server()
+2025-01-24T09:18:18,765 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 268, in run_server
+2025-01-24T09:18:18,765 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     self.handle_connection(cl_socket)
+2025-01-24T09:18:18,766 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 196, in handle_connection
+2025-01-24T09:18:18,766 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     service, result, code = self.load_model(msg)
+2025-01-24T09:18:18,767 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -                             ^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:18,767 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 133, in load_model
+2025-01-24T09:18:18,767 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     service = model_loader.load(
+2025-01-24T09:18:18,767 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -               ^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:18,767 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 110, in load
+2025-01-24T09:18:18,767 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module = self._load_default_handler(handler)
+2025-01-24T09:18:18,767 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:18,767 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 159, in _load_default_handler
+2025-01-24T09:18:18,767 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module = importlib.import_module(module_name, "ts.torch_handler")
+2025-01-24T09:18:18,767 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:18,767 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\importlib\__init__.py", line 90, in import_module
+2025-01-24T09:18:18,768 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     return _bootstrap._gcd_import(name[level:], package, level)
+2025-01-24T09:18:18,768 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:18,768 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2025-01-24T09:18:18,768 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2025-01-24T09:18:18,768 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+2025-01-24T09:18:18,768 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ModuleNotFoundError: No module named 'ts.torch_handler.C:\\Users\\SRIDHA~1\\AppData\\Local\\Temp\\models\\c64d084baec44e77b782fdcfabe37735'
+2025-01-24T09:18:21,035 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T09:18:21,035 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T09:18:21,035 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]16972
+2025-01-24T09:18:21,035 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T09:18:21,044 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T09:18:21,044 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T09:18:21,060 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T09:18:21,060 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend worker process died.
+2025-01-24T09:18:21,060 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2025-01-24T09:18:21,060 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 108, in load
+2025-01-24T09:18:21,063 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module, function_name = self._load_handler_file(handler)
+2025-01-24T09:18:21,063 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:21,064 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 153, in _load_handler_file
+2025-01-24T09:18:21,064 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module = importlib.import_module(module_name)
+2025-01-24T09:18:21,064 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:21,065 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\importlib\__init__.py", line 90, in import_module
+2025-01-24T09:18:21,065 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     return _bootstrap._gcd_import(name[level:], package, level)
+2025-01-24T09:18:21,065 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:21,065 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2025-01-24T09:18:21,066 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2025-01-24T09:18:21,066 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+2025-01-24T09:18:21,066 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ModuleNotFoundError: No module named 'C'
+2025-01-24T09:18:21,066 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - 
+2025-01-24T09:18:21,066 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - During handling of the above exception, another exception occurred:
+2025-01-24T09:18:21,066 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - 
+2025-01-24T09:18:21,067 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2025-01-24T09:18:21,067 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 301, in <module>
+2025-01-24T09:18:21,067 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     worker.run_server()
+2025-01-24T09:18:21,067 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 268, in run_server
+2025-01-24T09:18:21,067 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     self.handle_connection(cl_socket)
+2025-01-24T09:18:21,067 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 196, in handle_connection
+2025-01-24T09:18:21,067 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     service, result, code = self.load_model(msg)
+2025-01-24T09:18:21,068 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -                             ^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:21,068 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 133, in load_model
+2025-01-24T09:18:21,068 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     service = model_loader.load(
+2025-01-24T09:18:21,068 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -               ^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:21,068 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 110, in load
+2025-01-24T09:18:21,068 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module = self._load_default_handler(handler)
+2025-01-24T09:18:21,068 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:21,068 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 159, in _load_default_handler
+2025-01-24T09:18:21,068 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module = importlib.import_module(module_name, "ts.torch_handler")
+2025-01-24T09:18:21,069 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:21,069 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\importlib\__init__.py", line 90, in import_module
+2025-01-24T09:18:21,069 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     return _bootstrap._gcd_import(name[level:], package, level)
+2025-01-24T09:18:21,069 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:21,069 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2025-01-24T09:18:21,069 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2025-01-24T09:18:21,069 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+2025-01-24T09:18:21,069 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ModuleNotFoundError: No module named 'ts.torch_handler.C:\\Users\\SRIDHA~1\\AppData\\Local\\Temp\\models\\c64d084baec44e77b782fdcfabe37735'
+2025-01-24T09:18:24,306 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T09:18:24,322 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T09:18:24,322 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]25640
+2025-01-24T09:18:24,322 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T09:18:24,325 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T09:18:24,325 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T09:18:24,348 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T09:18:24,348 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend worker process died.
+2025-01-24T09:18:24,348 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2025-01-24T09:18:24,348 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 108, in load
+2025-01-24T09:18:24,352 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module, function_name = self._load_handler_file(handler)
+2025-01-24T09:18:24,352 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:24,352 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 153, in _load_handler_file
+2025-01-24T09:18:24,352 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module = importlib.import_module(module_name)
+2025-01-24T09:18:24,352 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:24,353 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\importlib\__init__.py", line 90, in import_module
+2025-01-24T09:18:24,353 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     return _bootstrap._gcd_import(name[level:], package, level)
+2025-01-24T09:18:24,353 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:24,353 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2025-01-24T09:18:24,353 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2025-01-24T09:18:24,354 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+2025-01-24T09:18:24,354 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ModuleNotFoundError: No module named 'C'
+2025-01-24T09:18:24,354 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - 
+2025-01-24T09:18:24,354 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - During handling of the above exception, another exception occurred:
+2025-01-24T09:18:24,354 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - 
+2025-01-24T09:18:24,354 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2025-01-24T09:18:24,354 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 301, in <module>
+2025-01-24T09:18:24,354 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     worker.run_server()
+2025-01-24T09:18:24,354 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 268, in run_server
+2025-01-24T09:18:24,354 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     self.handle_connection(cl_socket)
+2025-01-24T09:18:24,354 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 196, in handle_connection
+2025-01-24T09:18:24,354 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     service, result, code = self.load_model(msg)
+2025-01-24T09:18:24,355 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -                             ^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:24,355 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 133, in load_model
+2025-01-24T09:18:24,355 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     service = model_loader.load(
+2025-01-24T09:18:24,355 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -               ^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:24,355 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 110, in load
+2025-01-24T09:18:24,356 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module = self._load_default_handler(handler)
+2025-01-24T09:18:24,356 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:24,357 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 159, in _load_default_handler
+2025-01-24T09:18:24,357 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module = importlib.import_module(module_name, "ts.torch_handler")
+2025-01-24T09:18:24,357 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:24,357 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\importlib\__init__.py", line 90, in import_module
+2025-01-24T09:18:24,357 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     return _bootstrap._gcd_import(name[level:], package, level)
+2025-01-24T09:18:24,357 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:24,357 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2025-01-24T09:18:24,357 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2025-01-24T09:18:24,357 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+2025-01-24T09:18:24,357 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ModuleNotFoundError: No module named 'ts.torch_handler.C:\\Users\\SRIDHA~1\\AppData\\Local\\Temp\\models\\c64d084baec44e77b782fdcfabe37735'
+2025-01-24T09:18:28,646 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T09:18:28,646 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T09:18:28,646 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]26424
+2025-01-24T09:18:28,646 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T09:18:28,646 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T09:18:28,653 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T09:18:28,663 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T09:18:28,664 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend worker process died.
+2025-01-24T09:18:28,664 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2025-01-24T09:18:28,665 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 108, in load
+2025-01-24T09:18:28,665 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module, function_name = self._load_handler_file(handler)
+2025-01-24T09:18:28,665 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:28,665 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 153, in _load_handler_file
+2025-01-24T09:18:28,666 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module = importlib.import_module(module_name)
+2025-01-24T09:18:28,666 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:28,666 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\importlib\__init__.py", line 90, in import_module
+2025-01-24T09:18:28,666 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     return _bootstrap._gcd_import(name[level:], package, level)
+2025-01-24T09:18:28,666 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:28,666 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2025-01-24T09:18:28,666 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2025-01-24T09:18:28,666 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+2025-01-24T09:18:28,667 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ModuleNotFoundError: No module named 'C'
+2025-01-24T09:18:28,667 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - 
+2025-01-24T09:18:28,667 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - During handling of the above exception, another exception occurred:
+2025-01-24T09:18:28,667 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - 
+2025-01-24T09:18:28,667 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2025-01-24T09:18:28,667 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 301, in <module>
+2025-01-24T09:18:28,667 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     worker.run_server()
+2025-01-24T09:18:28,668 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 268, in run_server
+2025-01-24T09:18:28,668 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     self.handle_connection(cl_socket)
+2025-01-24T09:18:28,668 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 196, in handle_connection
+2025-01-24T09:18:28,668 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     service, result, code = self.load_model(msg)
+2025-01-24T09:18:28,669 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -                             ^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:28,669 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 133, in load_model
+2025-01-24T09:18:28,669 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     service = model_loader.load(
+2025-01-24T09:18:28,669 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -               ^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:28,669 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 110, in load
+2025-01-24T09:18:28,669 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module = self._load_default_handler(handler)
+2025-01-24T09:18:28,669 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:28,669 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 159, in _load_default_handler
+2025-01-24T09:18:28,670 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module = importlib.import_module(module_name, "ts.torch_handler")
+2025-01-24T09:18:28,670 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:28,670 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\importlib\__init__.py", line 90, in import_module
+2025-01-24T09:18:28,670 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     return _bootstrap._gcd_import(name[level:], package, level)
+2025-01-24T09:18:28,670 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:28,670 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2025-01-24T09:18:28,670 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2025-01-24T09:18:28,671 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+2025-01-24T09:18:28,671 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ModuleNotFoundError: No module named 'ts.torch_handler.C:\\Users\\SRIDHA~1\\AppData\\Local\\Temp\\models\\c64d084baec44e77b782fdcfabe37735'
+2025-01-24T09:18:34,956 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T09:18:34,956 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T09:18:34,956 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]17664
+2025-01-24T09:18:34,956 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T09:18:34,956 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T09:18:34,963 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T09:18:34,972 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T09:18:34,974 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend worker process died.
+2025-01-24T09:18:34,974 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2025-01-24T09:18:34,975 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 108, in load
+2025-01-24T09:18:34,975 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module, function_name = self._load_handler_file(handler)
+2025-01-24T09:18:34,975 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:34,975 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 153, in _load_handler_file
+2025-01-24T09:18:34,976 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module = importlib.import_module(module_name)
+2025-01-24T09:18:34,976 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:34,976 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\importlib\__init__.py", line 90, in import_module
+2025-01-24T09:18:34,977 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     return _bootstrap._gcd_import(name[level:], package, level)
+2025-01-24T09:18:34,977 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:34,977 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2025-01-24T09:18:34,977 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2025-01-24T09:18:34,977 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+2025-01-24T09:18:34,977 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ModuleNotFoundError: No module named 'C'
+2025-01-24T09:18:34,977 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - 
+2025-01-24T09:18:34,977 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - During handling of the above exception, another exception occurred:
+2025-01-24T09:18:34,977 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - 
+2025-01-24T09:18:34,977 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2025-01-24T09:18:34,977 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 301, in <module>
+2025-01-24T09:18:34,978 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     worker.run_server()
+2025-01-24T09:18:34,978 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 268, in run_server
+2025-01-24T09:18:34,978 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     self.handle_connection(cl_socket)
+2025-01-24T09:18:34,978 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 196, in handle_connection
+2025-01-24T09:18:34,979 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     service, result, code = self.load_model(msg)
+2025-01-24T09:18:34,979 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -                             ^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:34,979 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 133, in load_model
+2025-01-24T09:18:34,980 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     service = model_loader.load(
+2025-01-24T09:18:34,980 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -               ^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:34,980 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 110, in load
+2025-01-24T09:18:34,980 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module = self._load_default_handler(handler)
+2025-01-24T09:18:34,980 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:34,980 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 159, in _load_default_handler
+2025-01-24T09:18:34,980 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module = importlib.import_module(module_name, "ts.torch_handler")
+2025-01-24T09:18:34,980 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:34,980 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\importlib\__init__.py", line 90, in import_module
+2025-01-24T09:18:34,980 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     return _bootstrap._gcd_import(name[level:], package, level)
+2025-01-24T09:18:34,980 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:34,980 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2025-01-24T09:18:34,980 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2025-01-24T09:18:34,980 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+2025-01-24T09:18:34,980 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ModuleNotFoundError: No module named 'ts.torch_handler.C:\\Users\\SRIDHA~1\\AppData\\Local\\Temp\\models\\c64d084baec44e77b782fdcfabe37735'
+2025-01-24T09:18:44,322 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T09:18:44,326 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T09:18:44,326 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]23512
+2025-01-24T09:18:44,326 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T09:18:44,327 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T09:18:44,327 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T09:18:44,336 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T09:18:44,338 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend worker process died.
+2025-01-24T09:18:44,338 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2025-01-24T09:18:44,338 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 108, in load
+2025-01-24T09:18:44,338 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module, function_name = self._load_handler_file(handler)
+2025-01-24T09:18:44,338 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:44,338 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 153, in _load_handler_file
+2025-01-24T09:18:44,339 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module = importlib.import_module(module_name)
+2025-01-24T09:18:44,339 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:44,339 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\importlib\__init__.py", line 90, in import_module
+2025-01-24T09:18:44,339 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     return _bootstrap._gcd_import(name[level:], package, level)
+2025-01-24T09:18:44,339 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:44,339 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2025-01-24T09:18:44,339 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2025-01-24T09:18:44,340 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+2025-01-24T09:18:44,340 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ModuleNotFoundError: No module named 'C'
+2025-01-24T09:18:44,340 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - 
+2025-01-24T09:18:44,340 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - During handling of the above exception, another exception occurred:
+2025-01-24T09:18:44,340 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - 
+2025-01-24T09:18:44,340 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2025-01-24T09:18:44,340 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 301, in <module>
+2025-01-24T09:18:44,340 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     worker.run_server()
+2025-01-24T09:18:44,340 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 268, in run_server
+2025-01-24T09:18:44,340 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     self.handle_connection(cl_socket)
+2025-01-24T09:18:44,340 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 196, in handle_connection
+2025-01-24T09:18:44,341 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     service, result, code = self.load_model(msg)
+2025-01-24T09:18:44,341 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -                             ^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:44,341 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 133, in load_model
+2025-01-24T09:18:44,342 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     service = model_loader.load(
+2025-01-24T09:18:44,342 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -               ^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:44,342 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 110, in load
+2025-01-24T09:18:44,342 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module = self._load_default_handler(handler)
+2025-01-24T09:18:44,342 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:44,342 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 159, in _load_default_handler
+2025-01-24T09:18:44,342 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module = importlib.import_module(module_name, "ts.torch_handler")
+2025-01-24T09:18:44,343 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:44,343 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\importlib\__init__.py", line 90, in import_module
+2025-01-24T09:18:44,343 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     return _bootstrap._gcd_import(name[level:], package, level)
+2025-01-24T09:18:44,343 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:44,343 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2025-01-24T09:18:44,343 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2025-01-24T09:18:44,343 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+2025-01-24T09:18:44,343 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ModuleNotFoundError: No module named 'ts.torch_handler.C:\\Users\\SRIDHA~1\\AppData\\Local\\Temp\\models\\c64d084baec44e77b782fdcfabe37735'
+2025-01-24T09:18:58,596 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T09:18:58,600 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T09:18:58,600 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]5968
+2025-01-24T09:18:58,600 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T09:18:58,600 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T09:18:58,601 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T09:18:58,608 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T09:18:58,610 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend worker process died.
+2025-01-24T09:18:58,610 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2025-01-24T09:18:58,610 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 108, in load
+2025-01-24T09:18:58,611 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module, function_name = self._load_handler_file(handler)
+2025-01-24T09:18:58,611 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:58,611 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 153, in _load_handler_file
+2025-01-24T09:18:58,612 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module = importlib.import_module(module_name)
+2025-01-24T09:18:58,612 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:58,612 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\importlib\__init__.py", line 90, in import_module
+2025-01-24T09:18:58,612 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     return _bootstrap._gcd_import(name[level:], package, level)
+2025-01-24T09:18:58,612 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:58,612 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2025-01-24T09:18:58,613 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2025-01-24T09:18:58,613 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+2025-01-24T09:18:58,613 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ModuleNotFoundError: No module named 'C'
+2025-01-24T09:18:58,613 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - 
+2025-01-24T09:18:58,613 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - During handling of the above exception, another exception occurred:
+2025-01-24T09:18:58,613 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - 
+2025-01-24T09:18:58,613 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2025-01-24T09:18:58,613 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 301, in <module>
+2025-01-24T09:18:58,613 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     worker.run_server()
+2025-01-24T09:18:58,613 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 268, in run_server
+2025-01-24T09:18:58,614 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     self.handle_connection(cl_socket)
+2025-01-24T09:18:58,614 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 196, in handle_connection
+2025-01-24T09:18:58,614 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     service, result, code = self.load_model(msg)
+2025-01-24T09:18:58,614 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -                             ^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:58,615 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_service_worker.py", line 133, in load_model
+2025-01-24T09:18:58,615 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     service = model_loader.load(
+2025-01-24T09:18:58,615 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -               ^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:58,615 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 110, in load
+2025-01-24T09:18:58,615 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module = self._load_default_handler(handler)
+2025-01-24T09:18:58,616 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:58,616 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\model_loader.py", line 159, in _load_default_handler
+2025-01-24T09:18:58,616 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     module = importlib.import_module(module_name, "ts.torch_handler")
+2025-01-24T09:18:58,616 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:58,616 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\importlib\__init__.py", line 90, in import_module
+2025-01-24T09:18:58,616 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     return _bootstrap._gcd_import(name[level:], package, level)
+2025-01-24T09:18:58,616 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:18:58,616 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2025-01-24T09:18:58,616 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2025-01-24T09:18:58,616 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+2025-01-24T09:18:58,616 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ModuleNotFoundError: No module named 'ts.torch_handler.C:\\Users\\SRIDHA~1\\AppData\\Local\\Temp\\models\\c64d084baec44e77b782fdcfabe37735'
+2025-01-24T09:19:26,598 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T09:19:26,602 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T09:19:26,602 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]21636
+2025-01-24T09:19:26,602 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T09:19:26,602 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T09:19:26,609 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T09:19:26,631 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T09:19:26,675 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T09:19:26,675 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T09:19:26,675 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T09:19:26,675 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T09:19:27,639 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Loaded ONNX model from C:\Users\SRIDHA~1\AppData\Local\Temp\models\660f9f07f7c7414d97b87a28195eaa52/emotion_model.onnx
+2025-01-24T09:19:27,639 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Preprocessing transformations set up successfully.
+2025-01-24T09:19:48,787 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737690588
+2025-01-24T09:19:48,804 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:19:48,813 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:19:48,814 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:31:14,759 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T09:31:14,761 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T09:31:14,763 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]6632
+2025-01-24T09:31:14,763 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T09:31:14,763 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T09:31:14,770 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T09:31:14,789 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T09:31:14,838 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T09:31:14,838 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T09:31:14,838 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T09:31:14,838 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T09:31:15,739 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Loaded ONNX model from C:\Users\SRIDHA~1\AppData\Local\Temp\models\b9aeec3928eb42aaaa6964dc65d0f668/emotion_model.onnx
+2025-01-24T09:31:15,739 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Preprocessing transformations set up successfully.
+2025-01-24T09:37:14,101 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T09:37:14,119 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T09:37:14,119 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]14468
+2025-01-24T09:37:14,119 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T09:37:14,119 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T09:37:14,123 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T09:37:14,145 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T09:37:14,269 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T09:37:14,269 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T09:37:14,269 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T09:37:14,269 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T09:37:17,239 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Loaded ONNX model from C:\Users\SRIDHA~1\AppData\Local\Temp\models\3c28efa342ea4de386b1978bd65372dd/emotion_model.onnx
+2025-01-24T09:37:17,240 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Preprocessing transformations set up successfully.
+2025-01-24T09:39:02,683 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737691742
+2025-01-24T09:39:02,713 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:39:02,721 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:39:02,721 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:41:21,276 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T09:41:21,276 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T09:41:21,276 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]24640
+2025-01-24T09:41:21,276 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T09:41:21,276 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T09:41:21,288 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T09:41:21,309 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T09:41:21,438 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T09:41:21,438 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T09:41:21,438 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T09:41:21,438 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T09:41:22,436 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Loaded ONNX model from C:\Users\SRIDHA~1\AppData\Local\Temp\models\183f6dcee58c46ebb25d11d01a558114/emotion_model.onnx
+2025-01-24T09:41:22,443 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Preprocessing transformations set up successfully.
+2025-01-24T09:42:56,386 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737691976
+2025-01-24T09:42:56,386 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Error processing input at index 0: Unexpected type <class 'list'>
+2025-01-24T09:42:56,386 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Invoking custom service failed.
+2025-01-24T09:42:56,386 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2025-01-24T09:42:56,386 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\service.py", line 135, in predict
+2025-01-24T09:42:56,386 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     ret = self._entry_point(input_batch, self.context)
+2025-01-24T09:42:56,386 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:42:56,386 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\torch_handler\base_handler.py", line 455, in handle
+2025-01-24T09:42:56,386 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     data_preprocess = self.preprocess(data)
+2025-01-24T09:42:56,386 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -                       ^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:42:56,386 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Temp\models\183f6dcee58c46ebb25d11d01a558114\onnx_handler.py", line 67, in preprocess
+2025-01-24T09:42:56,386 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     raise ValueError("No valid images to process in batch.")
+2025-01-24T09:42:56,386 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ValueError: No valid images to process in batch.
+2025-01-24T09:45:32,186 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692132
+2025-01-24T09:45:32,186 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Error processing input at index 0: Unexpected type <class 'list'>
+2025-01-24T09:45:32,186 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Invoking custom service failed.
+2025-01-24T09:45:32,186 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2025-01-24T09:45:32,189 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\service.py", line 135, in predict
+2025-01-24T09:45:32,190 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     ret = self._entry_point(input_batch, self.context)
+2025-01-24T09:45:32,190 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:45:32,191 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\torch_handler\base_handler.py", line 455, in handle
+2025-01-24T09:45:32,191 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     data_preprocess = self.preprocess(data)
+2025-01-24T09:45:32,192 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -                       ^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:45:32,192 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Temp\models\183f6dcee58c46ebb25d11d01a558114\onnx_handler.py", line 67, in preprocess
+2025-01-24T09:45:32,192 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     raise ValueError("No valid images to process in batch.")
+2025-01-24T09:45:32,192 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ValueError: No valid images to process in batch.
+2025-01-24T09:48:19,149 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T09:48:19,149 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T09:48:19,149 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]22824
+2025-01-24T09:48:19,149 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T09:48:19,149 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T09:48:19,165 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T09:48:19,187 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T09:48:19,303 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T09:48:19,303 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T09:48:19,303 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T09:48:19,303 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T09:48:20,126 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Using device: cuda
+2025-01-24T09:48:20,300 [WARN ] W-9000-emotion_model_1.0-stderr MODEL_LOG -  [ 0 ; 9 3 m 2 0 2 5 - 0 1 - 2 4   0 9 : 4 8 : 2 0 . 3 0 4 6 2 1 2   [ W : o n n x r u n t i m e : ,   t r a n s f o r m e r _ m e m c p y . c c : 7 4   o n n x r u n t i m e : : M e m c p y T r a n s f o r m e r : : A p p l y I m p l ]   1 5   M e m c p y   n o d e s   a r e   a d d e d   t o   t h e   g r a p h   m a i n _ g r a p h   f o r   C U D A E x e c u t i o n P r o v i d e r .   I t   m i g h t   h a v e   n e g a t i v e   i m p a c t   o n   p e r f o r m a n c e   ( i n c l u d i n g   u n a b l e   t o   r u n   C U D A   g r a p h ) .   S e t   s e s s i o n _ o p t i o n s . l o g _ s e v e r i t y _ l e v e l = 1   t o   s e e   t h e   d e t a i l   l o g s   b e f o r e   t h i s   m e s s a g e .  [ m 
+2025-01-24T09:48:20,300 [WARN ] W-9000-emotion_model_1.0-stderr MODEL_LOG -   [ 0 ; 9 3 m 2 0 2 5 - 0 1 - 2 4   0 9 : 4 8 : 2 0 . 3 0 7 3 1 0 5   [ W : o n n x r u n t i m e : ,   s e s s i o n _ s t a t e . c c : 1 1 6 8   o n n x r u n t i m e : : V e r i f y E a c h N o d e I s A s s i g n e d T o A n E p ]   S o m e   n o d e s   w e r e   n o t   a s s i g n e d   t o   t h e   p r e f e r r e d   e x e c u t i o n   p r o v i d e r s   w h i c h   m a y   o r   m a y   n o t   h a v e   a n   n e g a t i v e   i m p a c t   o n   p e r f o r m a n c e .   e . g .   O R T   e x p l i c i t l y   a s s i g n s   s h a p e   r e l a t e d   o p s   t o   C P U   t o   i m p r o v e   p e r f .  [ m 
+2025-01-24T09:48:20,300 [WARN ] W-9000-emotion_model_1.0-stderr MODEL_LOG -   [ 0 ; 9 3 m 2 0 2 5 - 0 1 - 2 4   0 9 : 4 8 : 2 0 . 3 0 7 5 0 5 0   [ W : o n n x r u n t i m e : ,   s e s s i o n _ s t a t e . c c : 1 1 7 0   o n n x r u n t i m e : : V e r i f y E a c h N o d e I s A s s i g n e d T o A n E p ]   R e r u n n i n g   w i t h   v e r b o s e   o u t p u t   o n   a   n o n - m i n i m a l   b u i l d   w i l l   s h o w   n o d e   a s s i g n m e n t s .  [ m 
+2025-01-24T09:48:20,348 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Loaded ONNX model from C:\Users\SRIDHA~1\AppData\Local\Temp\models\0c84ef0f1ff14c58ac93831feefe341d/emotion_model.onnx
+2025-01-24T09:48:20,349 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Preprocessing transformations set up successfully.
+2025-01-24T09:48:30,508 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692310
+2025-01-24T09:48:30,508 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Error processing input at index 0: Unexpected type <class 'list'>
+2025-01-24T09:48:30,508 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Invoking custom service failed.
+2025-01-24T09:48:30,509 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2025-01-24T09:48:30,509 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\service.py", line 135, in predict
+2025-01-24T09:48:30,509 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     ret = self._entry_point(input_batch, self.context)
+2025-01-24T09:48:30,510 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:48:30,510 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages\ts\torch_handler\base_handler.py", line 455, in handle
+2025-01-24T09:48:30,510 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     data_preprocess = self.preprocess(data)
+2025-01-24T09:48:30,510 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -                       ^^^^^^^^^^^^^^^^^^^^^
+2025-01-24T09:48:30,510 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -   File "C:\Users\SRI DHARANEESH\AppData\Local\Temp\models\0c84ef0f1ff14c58ac93831feefe341d\onnx_handler.py", line 75, in preprocess
+2025-01-24T09:48:30,512 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG -     raise ValueError("No valid images to process in batch.")
+2025-01-24T09:48:30,512 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ValueError: No valid images to process in batch.
+2025-01-24T09:50:19,964 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T09:50:19,967 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T09:50:19,967 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]25568
+2025-01-24T09:50:19,967 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T09:50:19,968 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T09:50:19,975 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T09:50:19,991 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T09:50:20,042 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T09:50:20,042 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T09:50:20,042 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T09:50:20,042 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T09:50:20,993 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Loaded ONNX model from C:\Users\SRIDHA~1\AppData\Local\Temp\models\d1a01a6c9c374debbaed7b896f818f6c/emotion_model.onnx
+2025-01-24T09:50:20,993 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Preprocessing transformations set up successfully.
+2025-01-24T09:50:23,835 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692423
+2025-01-24T09:50:23,845 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:23,863 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:23,863 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:55,822 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692455
+2025-01-24T09:50:55,822 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:55,822 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:55,822 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:55,858 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692455
+2025-01-24T09:50:55,860 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:55,866 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:55,867 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:55,885 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692455
+2025-01-24T09:50:55,888 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:55,893 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:55,894 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:55,910 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692455
+2025-01-24T09:50:55,912 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:55,918 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:55,918 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:55,932 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692455
+2025-01-24T09:50:55,934 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:55,940 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:55,941 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:55,957 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692455
+2025-01-24T09:50:55,960 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:55,966 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:55,966 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:55,981 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692455
+2025-01-24T09:50:55,983 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:55,988 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:55,988 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,008 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,011 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,029 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,029 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,049 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,049 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,060 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,060 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,076 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,078 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,084 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,085 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,099 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,101 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,107 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,107 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,122 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,124 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,128 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,128 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,144 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,147 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,147 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,147 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,167 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,169 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,175 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,175 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,191 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,193 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,199 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,199 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,214 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,216 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,220 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,223 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,236 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,240 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,246 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,246 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,261 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,263 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,270 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,270 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,284 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,286 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,286 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,292 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,309 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,311 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,317 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,317 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,336 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,339 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,342 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,342 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,359 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,361 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,365 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,365 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,383 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,386 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,391 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,391 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,405 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,406 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,413 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,414 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,425 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,432 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,438 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,438 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,455 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,457 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,464 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,465 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,483 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,485 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,492 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,492 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,507 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,508 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,515 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,516 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,529 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,529 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,540 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,541 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,556 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,557 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,565 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,566 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,571 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,573 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,580 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,580 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,584 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,586 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,593 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,594 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,597 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,600 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,606 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,606 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,610 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,612 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,618 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,619 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,623 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,626 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,632 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,632 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,637 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,640 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,646 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,646 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,651 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,653 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,659 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,659 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,668 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,670 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,677 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,677 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,682 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,685 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,691 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,691 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,696 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,697 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,705 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,705 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,709 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,711 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,719 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,719 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,723 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,725 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,732 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,732 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,737 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,737 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,744 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,744 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,748 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,752 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,757 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,758 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,762 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,764 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,770 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,770 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,773 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,777 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,785 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,786 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,787 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,794 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,800 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,806 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,809 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,813 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,819 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,819 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,823 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,825 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,831 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,831 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,836 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,839 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,845 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,845 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,848 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,848 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,856 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,857 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,858 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,862 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,870 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,870 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,871 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,877 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,882 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,883 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,887 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,889 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,896 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,896 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,898 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,898 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,909 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,910 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,912 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,912 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,922 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,922 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,925 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,925 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,934 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,934 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,938 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,941 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,948 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,948 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,952 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,954 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,961 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,961 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,965 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,967 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,972 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,973 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,977 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,979 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,986 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,986 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:56,988 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692456
+2025-01-24T09:50:56,993 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:56,998 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:56,998 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,003 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,005 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,012 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,012 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,015 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,019 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,024 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,024 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,029 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,030 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,036 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,036 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,041 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,043 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,049 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,050 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,054 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,057 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,062 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,062 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,064 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,069 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,074 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,076 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,080 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,082 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,088 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,088 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,092 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,094 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,100 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,100 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,104 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,106 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,111 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,112 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,113 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,113 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,123 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,123 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,128 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,130 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,137 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,137 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,142 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,145 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,151 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,151 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,156 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,158 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,165 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,165 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,169 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,172 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,180 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,181 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,185 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,188 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,195 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,195 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,198 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,201 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,206 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,206 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,209 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,213 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,219 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,220 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,223 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,223 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,231 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,231 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,236 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,238 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,243 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,243 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,247 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,250 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,256 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,256 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,260 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,262 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,269 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,269 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,273 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,275 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,282 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,282 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,286 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,289 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,295 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,296 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,300 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,301 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,307 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,308 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,310 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,314 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,321 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,321 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,325 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,327 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,332 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,334 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,335 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,335 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,345 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,345 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,350 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,351 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,360 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,360 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,364 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,366 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,374 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,375 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,379 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,383 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,389 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,389 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,391 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,397 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,403 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,404 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,407 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,411 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,417 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,417 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,421 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,423 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,430 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,430 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,432 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,438 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,444 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,444 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,449 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,453 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,459 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,459 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,464 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,467 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,472 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,472 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,477 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,479 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,486 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,486 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:50:57,491 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692457
+2025-01-24T09:50:57,493 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:50:57,499 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:50:57,499 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T09:51:28,339 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Backend received inference at: 1737692488
+2025-01-24T09:51:28,343 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Batch size for preprocessing: 1
+2025-01-24T09:51:28,349 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Inference completed for batch size: 1
+2025-01-24T09:51:28,349 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Postprocessing completed for batch size: 1
+2025-01-24T12:16:03,678 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T12:16:03,685 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T12:16:03,685 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]26996
+2025-01-24T12:16:03,688 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T12:16:03,688 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T12:16:03,696 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T12:16:03,719 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T12:16:03,772 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T12:16:03,772 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T12:16:03,772 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T12:16:03,778 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T12:19:45,353 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T12:19:45,359 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T12:19:45,359 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]23364
+2025-01-24T12:19:45,359 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T12:19:45,359 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T12:19:45,368 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T12:19:45,389 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T12:19:45,436 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T12:19:45,436 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T12:19:45,436 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T12:19:45,436 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T12:21:52,678 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T12:21:52,682 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T12:21:52,682 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]19032
+2025-01-24T12:21:52,682 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T12:21:52,682 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T12:23:22,638 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T12:23:22,638 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T12:23:22,638 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]18068
+2025-01-24T12:23:22,638 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T12:23:22,638 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T12:23:22,651 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T12:23:22,674 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T12:23:22,725 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T12:23:22,725 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T12:23:22,725 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T12:23:22,726 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T12:27:18,294 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T12:27:18,298 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T12:27:18,298 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]26668
+2025-01-24T12:27:18,298 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T12:27:18,298 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T12:27:18,306 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T12:27:18,325 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T12:27:18,379 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T12:27:18,379 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T12:27:18,379 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T12:27:18,379 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T12:34:36,748 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T12:34:36,759 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T12:34:36,759 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]13868
+2025-01-24T12:34:36,760 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T12:34:36,760 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T12:34:36,767 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T12:34:36,793 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T12:34:36,871 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T12:34:36,872 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T12:34:36,872 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T12:34:36,872 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T12:36:07,869 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T12:36:07,869 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T12:36:07,869 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]25392
+2025-01-24T12:36:07,869 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T12:36:07,873 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T12:36:07,881 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T12:36:07,904 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T12:36:07,958 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T12:36:07,958 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T12:36:07,958 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T12:36:07,958 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T12:39:05,229 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T12:39:05,229 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T12:39:05,229 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]21268
+2025-01-24T12:39:05,229 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T12:39:05,235 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T12:39:05,242 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T12:39:05,263 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T12:39:05,309 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T12:39:05,309 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T12:39:05,309 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T12:39:05,309 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T12:50:17,609 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T12:50:17,616 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T12:50:17,616 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]26768
+2025-01-24T12:50:17,616 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T12:50:17,616 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T12:50:17,626 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T12:50:17,650 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T12:50:17,711 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T12:50:17,715 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T12:50:17,715 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T12:50:17,715 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T12:51:13,931 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T12:51:13,937 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T12:51:13,937 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]27548
+2025-01-24T12:51:13,937 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T12:51:13,937 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T12:51:13,946 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T12:51:13,968 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T12:51:14,019 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T12:51:14,019 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T12:51:14,019 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T12:51:14,021 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T12:56:17,263 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T12:56:17,270 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T12:56:17,270 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]10092
+2025-01-24T12:56:17,270 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T12:56:17,270 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T12:56:17,279 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T12:56:17,302 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T12:56:17,352 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T12:56:17,352 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T12:56:17,353 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T12:56:17,353 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-24T12:58:01,510 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-24T12:58:01,510 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\SRI DHARANEESH\AppData\Local\Programs\Python\Python312\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-24T12:58:01,510 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - [PID]25928
+2025-01-24T12:58:01,510 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-24T12:58:01,510 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Python runtime: 3.12.8
+2025-01-24T12:58:01,521 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-24T12:58:01,543 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - model_name: emotion_model, batchSize: 1
+2025-01-24T12:58:01,589 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Enabled tensor cores
+2025-01-24T12:58:01,589 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-24T12:58:01,589 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - ONNX enabled
+2025-01-24T12:58:01,589 [INFO ] W-9000-emotion_model_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
