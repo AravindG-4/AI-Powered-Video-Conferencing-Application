@@ -1,0 +1,17 @@
+# pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+fastapi
+uvicorn
+gunicorn
+torchserve
+torch-model-archiver
+onnx
+onnxruntime
+Pillow
+SpeechRecognition
+langchain
+sentence-transformers
+faiss-cpu
+numpy
+dotenv
+transformers
+librosa

@@ -1,0 +1,13 @@
+Torchserve
+1. torch-model-archiver --model-name emotion_model --version 1.0 --serialized-file emotion_model.onnx --handler onnx_emotion_handler.py --export-path model_store --force
+2. torchserve --start --ncs --model-store model_store --models emotion_model.mar --ts-config config.properties
+3. curl -X POST http://127.0.0.1:8080/predictions/emotion_model -T surprised.jpg
+
+
+FastAPI 
+1. uvicorn main:app --host 0.0.0.0 --port 8000 --workers 8
+2. curl -X POST "http://127.0.0.1:8000/detect-emotions/" -F "files=@E:\\VISHWA\\1.Hyperverge-finalreview\\fastapi\\surprised.jpg" -w "\nTotal Time: %{time_total}s\n"
+
+
+Streamlit
+1. streamlit run streamlit_mcu.py

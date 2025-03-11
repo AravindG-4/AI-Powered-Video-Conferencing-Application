@@ -1,0 +1,6 @@
+SpeechRecognition
+langchain
+sentence-transformers
+faiss-cpu
+numpy
+dotenv
