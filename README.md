@@ -63,7 +63,7 @@ cd ai-video-conferencing
 ### **2. Install Dependencies**
 #### Backend (TorchServe)
 ```bash
-cd backend
+cd torchserve
 pip install -r requirements.txt
 ```
 
@@ -82,11 +82,13 @@ npm start
 
 #### Start Peer Server
 ```bash
+cd peerserver
 node peer-server.js
 ```
 
 #### Start TorchServe Backend
 ```bash
+cd torchserve
 torchserve --start --ncs --model-store model_store --models emotion_model.mar --ts-config config.properties
 ```
 
