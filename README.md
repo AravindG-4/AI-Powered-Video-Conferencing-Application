@@ -61,9 +61,7 @@ cd ai-video-conferencing
 ```
 
 ### **2. Install Dependencies**
-#### Backend (TorchServe)
 ```bash
-cd torchserve
 pip install -r requirements.txt
 ```
 
@@ -115,8 +113,8 @@ curl -X POST http://127.0.0.1:8080/predictions/emotion_model -T surprised.jpg
 
 ## Contributors 🤝
 - **Vishwa J** – ML Engineer
-- **Aravind** - Full Stack Developer
-- **Sivakumar** - ML Engineer
+- **Aravind G** - Full Stack Developer
+- **Sivakumar A V** - ML Engineer
 
 ## License 📜
 This project is licensed under the **MIT License**.
